@@ -48,7 +48,7 @@ The following tasks were successfully completed:
 
 The complete project documentation is available in:
 
-**WAZUH SIEM Deployement.pdf**
+**WAZUH SIEM Deployment.pdf**
 
 ---
 
